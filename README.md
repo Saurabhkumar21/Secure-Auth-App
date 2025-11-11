@@ -2,7 +2,7 @@
 A simple full-stack authentication project built using the MERN stack
 ---
 
-
+https://github.com/user-attachments/assets/5c579d96-f00d-48b3-ab48-40077bc10f7e
 
 ## 🚀 Tech Stack
 
